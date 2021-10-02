@@ -1,0 +1,9 @@
+Is it one of Heather’s cats?
+	Does he have white paws?
+		Reggie
+		Bertie
+	Is it one of Tayloe’s cats?
+		Is the cat white?
+			Lexicon
+			Mercury
+		Bubba

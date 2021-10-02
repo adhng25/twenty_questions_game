@@ -1,0 +1,31 @@
+Is this a female character?
+	Was she a Seeker for the Quidditch team?
+		Does she have red hair?
+			Ginny Weasley
+			Cho Chang
+		Did she join Dumbledore’s Army?
+			Did she time travel in her third year at Hogwarts?
+				Hermione Granger
+				Luna Lovegood
+			Minerva McGonagall
+	Is the character in Gryffindor?
+		Was the person in the Quidditch team?
+			Is he one of the Weasleys?
+				Does he have a twin brother?
+					Fred Weasley
+					Ron Weasley
+				Does he wear glasses?
+					Harry Potter
+					Oliver Wood
+			Was this person a professor at Hogwarts?
+				Is his beard white?
+					Albus Dumbledore
+					Rubeus Hagrid
+				Sirius Black
+		Was the character a Death Eater?
+			Is his hair blond?
+				Draco Malfoy
+				Severus Snape
+			Does the character have a wing?
+				Hedwig
+				Dobby
